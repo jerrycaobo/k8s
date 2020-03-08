@@ -1,0 +1,4 @@
+FROM gcr.io/knative-releases/knative.dev/serving/cmd/autoscaler-hpa@sha256:3b58f5bdbc0a01ea592d671fd7b5f0291dfc6d366454c6e1ec00927f35723029
+
+MAINTAINER caobo
+
